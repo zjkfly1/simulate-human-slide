@@ -6,8 +6,9 @@
 因此，需要进行模拟人的操作来进行代码指令滑动。
 
 # 1.示例
-具体图片如下。
-![img.png](img.png)
+具体图片如下
+
+<img alt="img.png" height="300" src="img.png" width="400"/>
 
 # 2.使用示例
 
